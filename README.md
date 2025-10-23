@@ -63,8 +63,7 @@ Create `~/.config/agents/AGENTS.md` with personal preferences. Applies across al
 
 ## Related Discussion
 
-This proposal is discussed in:
-- [openai/agents.md Issue #TBD](https://github.com/openai/agents.md/issues) (pending submission)
+[openai/agents.md Issue #91](https://github.com/openai/agents.md/issues/91)
 
 ## License
 
